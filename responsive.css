@@ -1,0 +1,97 @@
+@media (max-width: 700px){
+.logo a{
+    font-size: 40px;
+    text-align: center;
+    margin-left:70px;
+}
+.menu{
+    margin-left:40px;
+    margin-top: 10px;
+}
+#login{
+    display: none;
+}
+main{
+    width: 100%;
+    height: auto;
+}
+.imagemCall img{
+    position: relative;
+    width: 60%;
+    float: none;
+    margin-left: 70px;
+}
+.texto{
+    float: none;
+    margin-right: 0;
+    padding-top: 5px;
+    margin-left: 50px;
+}
+main .texto p{
+    font-size: 15px;
+}
+main .texto h1{
+    font-size: 30px;
+}
+.contato{
+    padding: 10px;
+}
+#orcamento{
+    width: 100%;
+}
+#inputCel{
+    display: block;
+}
+#txtEquipe{
+    padding: 5px;
+}
+#ligar{
+    margin-top: 10px;
+    margin-left: 5px;
+    float: none;
+    width: 200px;
+}
+.containerSec .listaInfos{
+    margin-left: 10%;
+    float: none;
+
+}
+.containerSec .imagemSec{
+    float: none;
+    padding: auto;
+    width: 100%; 
+}
+.containerSec .imagemSec img{
+    width: 75%;
+    margin-left: 40px;
+    
+}
+.containerCards{
+    display: block; 
+    
+}
+.depoimento{
+    margin-top: 10px;
+    margin-left: 40px;
+    float:none;
+    width:240px;
+    height: 100px;
+}
+.pDepoimento{
+    font-size: 10px;
+    padding: 10px;
+}
+.codar, .sobre,.contato,.redesSociais  {
+    float: none;
+}
+.codar h1{
+    text-align: center;
+    font-size: 40px;
+}
+.codar p{
+    text-align: center;
+}
+.contato{
+    margin: 15px;
+}
+}

@@ -1,0 +1,195 @@
+*{
+margin: 0;
+padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+}
+.container{
+    padding: 15px 0;
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+}
+.logo a{
+    padding-left: 20px;
+    color: #D6000D;
+    font-size: 40px;
+    text-decoration: none;
+    font-weight: bold;
+}
+span{
+    color: black;
+}
+.menu{
+    float: right;
+    margin-right: 60px;
+}
+.barraMenu .linkMenu li{
+    display: inline;
+    list-style: none;
+    padding: 15px;
+    
+}
+#login{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    width: 100px;
+    height: 30px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+main{
+    margin-top:100px;   
+}
+.imagemCall img{
+    margin-left: 120px;
+    position: absolute;
+    padding: 5px;
+    float: left;
+    width:30%;
+    height: auto;
+}
+main .texto{
+    float: right;
+    margin-right: 20%;
+    padding-top: 50px;
+}
+main .texto p{
+    color: black;
+    font-weight:bold ;
+}
+main .texto h1{
+    color: red;
+    font-size: 50px;
+    font-weight: bold;
+}
+#orcamento{
+    background-color: red;
+    font-size: 20px;
+    width: 100%;
+    height: 40px;
+    margin-top: 25px;
+    color: white;
+    border-radius: 10px;
+    border:none;
+}
+.containerSec{
+    margin-top: 200px;
+}
+.containerSec .listaInfos{
+    float: left;
+    margin-top:30%;
+    margin-left: 15%;  
+}
+.containerSec .listaInfos ul li{
+    line-height: 25px;
+    list-style: none;
+}
+.fa-check-circle{
+    color: red;
+    padding:10px;
+}
+
+.containerSec .imagemSec{
+    float: right;
+    width: 400px;
+    margin-right: 20%;
+    padding-top: 20%;
+}
+.containerSec .imagemSec img{
+    width:100%;
+}
+.contato{
+    padding: 20px;
+}
+#txtEquipe{
+    font-weight: bold;
+    padding: 15px;
+}
+#inputCel{
+    background-color: lightgray;
+    border: none;
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    padding: 5px;
+    display: inline;
+}
+#ligar{
+    background-color: red;
+    font-weight: bold;
+    border: none;
+    border-radius: 10px;
+    width: 150px;
+    height: 50px;
+    color: white;
+    float: right;
+    margin-left: 15px;
+}
+.containerCards{
+    display: inline-block;
+    width: 100%;
+    height: auto;   
+}
+.depoimento{
+    background-color:lightgray;
+    border-radius: 10px;
+    height: 100px;
+    width: 400px;
+    padding:15px;
+    float: left;
+    margin-left:100px;
+}
+
+.circulo{
+    margin-top: 10px;
+    float: left;
+    margin-left: 10px;
+    margin-right: 10px;
+    width: 50px;
+    height: 50px;
+    background-color: red;
+    border-radius: 50%;    
+}
+.pDepoimento{
+    font-size: 15px;
+    text-align:justify;
+    padding: 10px;
+}
+ .nome{
+     margin-left: 70px;
+ }   
+.empresa{
+    margin-left: 70px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.rodape{
+    color: white;
+    background-color: black;
+    width: 100%;
+    height: auto;
+    display: inline-block;
+    margin-top: 30px;
+}
+.codar, .sobre,.contato,.redesSociais  {
+    float: left;
+    margin: 30px;
+}
+.icones li{
+    display: inline;
+    padding: 10px;
+    text-decoration: none;
+}
+i{
+    margin-top: 10px;
+    color: red;
+    font-size: 25px;
+}
